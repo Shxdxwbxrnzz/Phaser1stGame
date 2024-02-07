@@ -9,7 +9,7 @@ var config = {
         update: update
     }
 };
-<link rel="stylesheet" href="style.css"></link>
+
 
 var game = new Phaser.Game(config);
 //Добавляємо спрайти
